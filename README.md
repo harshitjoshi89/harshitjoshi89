@@ -1,4 +1,7 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aalif-07/aalif-07/main/banner (1).gif" height="300px" />
+</p>
+💫 About Me:
 🔭 I’m currently working on improving my programming skills through projects and problem-solving<br>👯 I’m looking to collaborate on beginner-friendly coding and development projects<br>🤝 I’m looking for help with writing efficient code and understanding core concepts deeply<br>🌱 I’m currently learning C, C++, Python and Java <br>💬 Ask me about basic programming, algorithms, and logic building<br>⚡ Fun fact: I focus more on understanding how things work than just completing them
 
 
